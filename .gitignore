@@ -1,0 +1,11 @@
+# =============== #
+# VTPro generated #
+# =============== #
+*.ASV
+*.vtz
+*.VTZ.hash
+*.sgd
+*.Core3*
+*.c3prj*
+*.ced
+*_Project.zip
